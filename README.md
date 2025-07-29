@@ -16,7 +16,7 @@ It’s built to help identify models best suited for safe, structured, and emoti
 ## What’s Included
 
 - **Two Versions of the Interface:**
-  - `RecursiveChatApp_v2.py`: Standard version
+  - `RecursiveChatApp.py`: Standard version
   - `RecursiveChatApp_autosend.py`: Includes auto-injected prompts from a `.csv`
 - **Example prompt set** in `/tests/recursive_prompts.csv`
 - **Model-agnostic logic**, with default prompt structure designed for **MythoMax L2**
