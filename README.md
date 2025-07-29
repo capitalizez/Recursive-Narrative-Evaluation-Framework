@@ -45,7 +45,7 @@ The prompt construction format used in this repo is tuned for **MythoMax-style m
 
 ### Basic version:
 ```bash
-python RecursiveChatApp_v2.py
+python RecursiveChatApp.py
 ```
 
 ### Version with auto-sending prompts:
